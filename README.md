@@ -4,7 +4,7 @@
 
 👀 I’m interested in Information Security and Pentesting.
 
-🌱 I’m currently studying CISA coursework to obtain my CEH & CISSP certifications.
+🌱 I’m currently studying to obtain the Security+ certification.
 
 💞️ I’m looking to collaborate on Home Labs, Cloud Based Projects, Threat Detection, Network Architecture & More.
 
